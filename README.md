@@ -2188,3 +2188,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [xoxco/jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 * [scripted-editor/scripted](https://github.com/scripted-editor/scripted) - The Scripted code editor
+* [hicay/videojs-story-view](https://github.com/hicay/videojs-story-view) - Instagram-style video and image stories for the web: a dependency-free `<story-view>` custom element plus an optional Video.js plugin
